@@ -74,7 +74,7 @@ Build a Website that is functionally similar to this: [Stanlee Web Page](https:/
 
 ## Notes
 
-- You can use HTML,and CSS to complete this project.
+- You can use HTML,and CSS to complete this project...
 
 ## Resources
 
