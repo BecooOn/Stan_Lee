@@ -24,7 +24,7 @@ Project aims to create Stanlee Web Page within html and css.
         
 ```
 
-## Expected Outcome
+## Expected Outcome ##
 
 ![Project  Snapshot](./img/StanLee.gif)
 
